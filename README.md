@@ -5,7 +5,7 @@ Molly Donnelly - mmd128@pitt.edu - Final_Project.ipynb
 
 # Description and Links to Datasets Used
 <h4>Enrolled Students Dataset</h4>
-This data set contains the total number of students enrolled in schools around Pittsburgh. Each entry also has the neighbourhood that each school is locaated in. <br>
+This data set contains the total number of students enrolled in schools around Pittsburgh. Each entry in this dataset also specifies which neighbourhood each school is located in. <br>
 Link: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment
 
 <h4>Smart Trash Containers</h4>
