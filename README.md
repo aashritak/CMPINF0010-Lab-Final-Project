@@ -1,6 +1,5 @@
 <h1> Team MASH CMPINF 0010 Final Project </h1>
 
-# Team Members
 Ash Kolli - aak185@pitt.edu <br>
 Molly Donnelly - mmd128@pitt.edu - Final_Project.ipynb
 
@@ -18,4 +17,4 @@ This data set counts the violation data from the inspection reports and provides
 Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations
 
 # About this Repository 
-
+This repository takes in data sets and analyzes them to find the best neighbourhood based on the metric we have created.
