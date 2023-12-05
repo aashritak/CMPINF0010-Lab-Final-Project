@@ -12,7 +12,7 @@ Link: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-s
 This data set contains the different trash contiainers located around Pittsburgh. <br>
 Link: https://data.wprdc.org/dataset/smart-trash-containers
 
-<h4>Arrest Data</h4>
+<h4>Inspection Violations</h4>
 This data set counts the violation data from the inspection reports and provides a count on them based on neighbourhood. <br>
 Link: https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations
 
