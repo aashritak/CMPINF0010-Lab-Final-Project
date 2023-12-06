@@ -1,7 +1,7 @@
 <h1> Team MASH CMPINF 0010 Final Project </h1>
 
 Ash Kolli - aak185@pitt.edu - numstudents_aak185.ipynb, smarttrash_aak185.ipynb<br>
-Molly Donnelly - mmd128@pitt.edu - final_Project.ipynb
+Molly Donnelly - mmd128@pitt.edu - Final_project.ipynb
 <h5> Final Project 32</h5>
 
 <h2>Description and Links to Datasets Used</h2>
