@@ -2,7 +2,7 @@
 
 Ash Kolli - aak185@pitt.edu - numstudents_aak185.ipynb, smarttrash_aak185.ipynb<br>
 Molly Donnelly - mmd128@pitt.edu - Final_project.ipynb
-<h5> Final Project 32</h5>
+<h5> Final Project Group 32</h5>
 
 <h2>Description and Links to Datasets Used</h2>
 <h4>Enrolled Students Dataset</h4>
